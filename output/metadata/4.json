@@ -1,0 +1,13 @@
+{
+  "version": "songchain-v1",
+  "name": "Song 4",
+  "description": "Debut generative collection from Pete Keating",
+  "external_url": "https://google.com",
+  "image": "ipfs://QmUb4kqN8i3Gism8VAdt86DQHf3FbTXRPipdNJD5y3KMAh",
+  "animation_url": "ipfs://QmXCX4SGmG1MYMKAbvXQeG25XPmD6XRUHRgmn3yHWdFT3d/generativeTrack3.wav",
+  "attributes": [
+    { "trait_type": "Leads", "value": "./layers/lead2.wav" },
+    { "trait_type": "Drums", "value": "./layers/drums2.wav" },
+    { "trait_type": "Drums", "value": "./layers/keys1.wav" }
+  ]
+}

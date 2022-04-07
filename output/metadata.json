@@ -1,0 +1,31 @@
+{
+  "version": "songchain-v1y2022",
+  "name": "Our Taproot",
+  "description": "Description",
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "",
+  "animation_url":"",
+  "attributes": [
+    {
+      "trait_type": "Drums",
+      "value": "Starfish"
+    },
+
+    {
+      "trait_type": "Synths",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Level",
+      "value": 5
+    },
+    {
+      "trait_type": "Stamina",
+      "value": 1.4
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Sad"
+    }
+  ]
+}

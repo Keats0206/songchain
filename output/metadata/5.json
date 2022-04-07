@@ -1,0 +1,13 @@
+{
+  "version": "songchain-v1",
+  "name": "Song 5",
+  "description": "Debut generative collection from Pete Keating",
+  "external_url": "https://google.com",
+  "image": "ipfs://QmUb4kqN8i3Gism8VAdt86DQHf3FbTXRPipdNJD5y3KMAh",
+  "animation_url": "ipfs://QmXCX4SGmG1MYMKAbvXQeG25XPmD6XRUHRgmn3yHWdFT3d/generativeTrack4.wav",
+  "attributes": [
+    { "trait_type": "Leads", "value": "./layers/lead1.wav" },
+    { "trait_type": "Drums", "value": "./layers/drums3.wav" },
+    { "trait_type": "Drums", "value": "./layers/keys2.wav" }
+  ]
+}
